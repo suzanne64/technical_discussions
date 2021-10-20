@@ -17,6 +17,8 @@ you can link to colab example of the [notebook](), after you've saved it to gith
 
 # Image
 
+<img width="996" alt="Screen Shot 2021-10-20 at 12 38 25 PM" src="https://user-images.githubusercontent.com/34384803/138160395-38c58579-daa6-4491-b02d-296e4facc652.png">
+
 https://github.com/suzanne64/technical_discussions/issues/1#issue-1031765554
 
 
